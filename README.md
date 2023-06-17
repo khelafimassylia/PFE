@@ -30,7 +30,7 @@ The repository is structured as follows:
 To use this project, follow the instructions below:
 
 1. Clone the repository: `git clone https://github.com/your-username/project-repo.git`
-2. Set up the STM32Cube IDE and load the `STM32Cube_IDE_Code` onto your STM32 microcontroller.
+2. Set up the STM32Cube IDE and load the `STM32Cube_IDE_Code` onto your STM32 microcontroller(this project used the STM2F103C8T6 but you can use a different stm32 microcontrolleur).
 3. Install the required dependencies for the backend classification code and run it.
 4. Set up the database by executing the necessary scripts provided in the `Database_Code` directory.
 5. Run the desired GUI code to visualize the classification results.
@@ -55,9 +55,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- [List any acknowledgements or references to external resources used in the project.]
+- 
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [your-email@example.com].
+For any questions or inquiries, please contact me at massylia.khelafi@g.enp.edu.dz.
 
